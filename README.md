@@ -25,4 +25,4 @@ Documented ratio of crime types demonstrate the highest rates recoded in previou
 Mutli dimensions analysis, to show different levels of details and deteremine the crime data across different states with total values.
 
 # Dashboard: Crime Analysis #Dataset
-![image](https://github.com/user-attachments/assets/870dfbba-8592-453d-8bf6-532fa8abbd3e)
+![image](https://github.com/user-attachments/assets/ee1af8ce-4c7a-40e7-8dbd-35cd92269b87)
