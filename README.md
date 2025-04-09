@@ -16,13 +16,13 @@ Map Visualization shows the demographic pattern of crime data, size of bubble on
 Trend Analysis demonstrate the statistics of crime rate varies over Year, and escalated with time period.
 
 # Top 10 State Analysis
-Stacked Bar chart exhibit vaious crimes recorded among diiferent states, breakdown of the violaence in top 10 states recorded.
+Stacked Bar chart exhibit various crimes recorded among different states, breakdown of the violence in top 10 states recorded.
 
 # Crime Ratio
-Documented ratio of crime types demonstrate the highest rates recoded in previous years
+Documented ratio of crime types demonstrate the highest rates recoded in previous years.
 
 # State-wise Crime Overview
-Mutli dimensions analysis, to show different levels of detais and detremine the crime data across different states with total values 
+Mutli dimensions analysis, to show different levels of details and deteremine the crime data across different states with total values.
 
 # Dashboard: Crime Analysis #Dataset
 ![image](https://github.com/user-attachments/assets/870dfbba-8592-453d-8bf6-532fa8abbd3e)
