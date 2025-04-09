@@ -24,4 +24,5 @@ Documented ratio of crime types demonstrate the highest rates recoded in previou
 # State-wise Crime Overview
 Mutli dimensions analysis, to show different levels of detais and detremine the crime data across different states with total values 
 
-
+# Dashboard: Crime Analysis #Dataset
+![Screenshot 2025-04-08 212456](https://github.com/user-attachments/assets/f5004a6a-3d62-4065-a6ef-27f3cc99b802)
